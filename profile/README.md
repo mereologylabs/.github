@@ -16,7 +16,7 @@ Our research explores how parts become wholes, and how completed assemblies can 
 
 ### BricksChat
 
-Our first application, [BricksChat](https://brickschat.com), turns ideas, sketches and photos into original brick builds with building instructions.
+Our first public project, [BricksChat](https://brickschat.com), turns ideas, sketches and photos into original brick builds with building instructions.
 
 [Explore BricksChat](https://brickschat.com) · [BricksChat on GitHub](https://github.com/brickschat-com)
 
